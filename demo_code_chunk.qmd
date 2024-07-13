@@ -1,0 +1,121 @@
+---
+title: "Demo Code Chunk"
+subtitle: "1st SARA Summer School"
+author: "Ajay Koli"
+date: last-modified
+format: html
+number-sections: true
+toc: true
+execute: 
+  echo: fenced
+---
+
+```{r}
+#| label: setup
+
+# install.packages("palmerpenguins") #uncomment it to install the package
+
+# to call the installed r package
+library(palmerpenguins)
+```
+
+
+## Code Chunks in Quarto
+
+### Code chunk without a label
+
+```{r}
+1 + 1
+```
+
+
+### Code chunk with a label
+
+```{r}
+#| label: addition
+
+1 + 1
+```
+
+A plot
+
+```{r}
+#| label: plot
+
+plot(1:100)
+```
+
+### Code and result both visible
+
+```{r}
+#| label: show code
+#| echo: true
+
+22 - 200
+```
+
+### Hide code but show result
+
+```{r}
+#| label: hide code
+#| echo: false
+
+22 - 200
+```
+
+### Only code no result
+
+```{r}
+#| label: only code no result
+#| eval: false
+
+22 - 200
+```
+
+## R functions
+
+```{r}
+#| label: function examples
+
+# combine values
+c(112, 213, 114, 165, 267)
+
+# create an object
+age <- c(112, 213, 114, 165, 267)
+
+# see what is stored in an object
+age
+
+# calculate mean age
+mean(age)
+
+# square root of age
+sqrt(age)
+
+# round the result digits
+round(sqrt(age))
+
+round(sqrt(age), 2) #change the default round digits
+```
+
+### Write your own R function
+
+```{r}
+#| label: add three function
+
+add_three <- function(x){
+  y <- x + 3
+  return(y)
+}
+
+add_three(5)
+```
+
+## R packages
+
+- Install R packages
+
+- Use R packages
+
+A good practice is that your first code code should be name as `setup` and call here the required packages.
+

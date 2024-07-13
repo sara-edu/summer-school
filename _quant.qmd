@@ -1,0 +1,17 @@
+---
+format: revealjs
+---
+
+## Data Science Process
+
+![](https://r4ds.hadley.nz/diagrams/data-science/base.png)
+
+::: aside
+Source: <https://r4ds.hadley.nz/>
+:::
+
+## Import Data
+
+
+
+

@@ -1,0 +1,1172 @@
+---
+format: revealjs
+from: markdown+emoji
+---
+
+
+
+## 🙄 Why research?
+
+> "Research results in the **creation of knowledge** to solve a problem, answer a question, and better describe or understand something." [^4]
+
+## {.center background-image=images/why.jpg background-size=cover background-color=black background-opacity=0.8}
+
+[Why?]{.r-fit-text}
+
+[^4]: @cloughStudentGuideMethodology2012
+
+## {.center background-image="images/story.jpg" background-size=cover background-color=black background-opacity="0.8"}
+
+[stories]{.r-fit-text}
+
+[Religion based stories; nature & natural laws called as metaphysics]{.r-fit-text}
+
+## {.center background-image="images/sci.jpg" background-color=black background-size=cover background-opacity=0.8}
+
+[science]{.r-fit-text}
+
+[Knowledge based upon observations rather than on belief.]{.r-fit-text}
+
+## :microscope: Science
+
+> "A set of logical, systematic, documented methods for investigating **nature and natural processes**; the knowledge produced by these investigations."[^1]
+
+[^1]: @chamblissMakingSenseSocial2018
+
+## :handshake: Social Science
+
+> "The use of scientific methods to investigate **individuals, societies, and social processes**; the knowledge produced by these investigations."[^2]
+
+[^2]: @chamblissMakingSenseSocial2018
+
+## Define Research
+
+> "the **process** of finding solutions to a problem after a thorough study and analysis of the situational factors"[^5]
+
+[^5]: @sekaranResearchMethodsBusiness2016
+
+## Define Research
+
+> "is about asking questions, exploring problems and **reflecting on** what emerges in order to make meaning from the data and tell the **research story**"[^6]
+
+[^6]: @cloughStudentGuideMethodology2012
+
+##  {.center background-image="https://images.unsplash.com/photo-1517478756454-301085283b72?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size="cover" background-color=black background-opacity="0.9"}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+:::
+
+::: {.column width="50%"}
+[Angle]{.r-fit-text}
+:::
+
+::::
+
+##  {.center background-image="https://images.unsplash.com/photo-1517478756454-301085283b72?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size="cover" background-color=black background-opacity="0.9"}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+:::
+
+::: {.column width="50%"}
+[Perspective]{.r-fit-text}
+:::
+
+::::
+
+##  {.center background-image="https://images.unsplash.com/photo-1517478756454-301085283b72?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size="cover" background-color=black background-opacity="0.9"}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+:::
+
+::: {.column width="50%"}
+[Research<br>approach]{.r-fit-text}
+:::
+
+::::
+
+## Research Approach[^10]
+
+[^10]: @creswellResearchDesignQualitative2018
+
+> "Research approaches are **plans and the procedures** for research that span the steps from broad assumptions to detailed methods of data collection, analysis, and interpretation."
+
+## {background-color=black}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<br>
+<br>
+
+### Research approaches:
+
+1. Qualitative, 
+
+1. Quantitative, and
+
+1. Mixed methods.
+:::
+
+::: {.column width="50%"}
+![](images/research-method.png){width=75%}
+:::
+
+::::
+
+::: aside
+Source: [Dr Raul Pacheco-Vega](https://x.com/raulpacheco/status/1458808875222802433)
+:::
+
+## Qualitative approach
+
+:::: {.columns}
+
+::: {.column width="50%"}
+-   "using **words**"
+
+-   "for exploring and understanding the **meaning** individuals or groups ascribe to a social or human problem."
+
+-   **open-ended** questions and responses
+
+-   **flexible** report structure
+:::
+
+::: {.column width="50%"}
+![For example: Domestic abuse/violence](images/abuse.jpg){fig-align="center"}
+:::
+
+::::
+
+## Quantitative approach
+
+:::: {.columns}
+
+::: {.column width="50%"}
+-   use **numbers**
+
+-   "for **testing** objective theories by examining relationship among variables"
+
+-   **closed-ended** questions and responses
+
+-   set structure
+:::
+
+::: {.column width="50%"}
+![For example: Video games and agression](images/gaming.jpg){fig-align="center"}
+:::
+
+::::
+
+## Mixed methods approach
+
+:::: {.columns}
+
+::: {.column width="50%"}
+-   "an inquiry involving collecting both quantitative and qualitative data, **integrating the two forms of data**, and using distinct designs that may involve philosophical assumptions and theoretical frameworks."
+:::
+
+::: {.column width="50%"}
+![For example: Gender and alcohol](images/alcohol.jpg){fig-align="center"}
+:::
+
+::::
+
+## Research framework {background-image=images/framework-research.jpg background-size=60% background-position="right"}
+
+:::: {.columns}
+
+::: {.column width="30%"}
+"Research approach involves the **intersection** of philosophical assumptions, designs and specific methods."
+:::
+
+
+::::
+
+::: aside
+Source: @creswellResearchDesignQualitative2018
+:::
+
+## Philosophical world-views
+
+> "A general philosophical orientation about the world and the nature of research that a researcher brings to a study"
+
+ - Post positivist
+ - Constructionist
+ - Transformative
+ - Pragmatic
+
+## Research designs
+
+> "These are **types of inquiry** within qualitative, quantitative, and mixed methods approaches that provide **specific direction for procedures** in a research study"
+
+  - Experiments
+  - Survey 
+  - Ethnographic
+  - Explanatory sequential
+
+## Research methods
+
+> "Involve the **forms of** data collection, analysis, and interpretation that researchers propose for their studies"
+
+  - Questions
+  - Data collection
+  - Data analysis
+  - Interpretation
+  - Validation
+
+## Post-positivism: {visibility="hidden"}
+
+::: {columns}
+::: {.column width="65%"}
+-   Determination (cause & effect)
+
+-   Reductionism <br>(concept $\rightarrow$ variables $\rightarrow$ hypothesis)
+
+-   Empirical observation and measurement
+
+-   Theory verification
+:::
+
+::: {.column width="35%"}
+![](images/framework-research.jpg)
+:::
+:::
+
+## Constructivist: {visibility="hidden"}
+
+::: {column}
+::: {.column width="60%"}
+-   Understanding
+
+-   Multiple participant meanings
+
+-   Social & historical construction
+
+-   Theory generation
+:::
+
+::: {.column width="40%"}
+![](images/framework-research.jpg){fig-align="center"}
+:::
+:::
+
+## Transformative: {visibility="hidden"}
+
+::: {column}
+::: {.column width="60%"}
+-   During the 1980s & 1990s for marginalized individuals in society
+
+-   Issues of power and social justice, discrimination, and oppression.
+
+-   Includes critical theorists; Marxists; feminists; racial and ethnic minorities; person with disabilities; indigenous and post colonial peoples; and members of LGBTQ.
+
+-   Research contain action and change-oriented
+:::
+
+::: {.column width="40%"}
+![](images/framework-research.jpg){fig-align="center"}
+:::
+:::
+
+## Pragmatic: {visibility="hidden"}
+
+::: {column}
+::: {.column width="60%"}
+-   It arises out of actions, situations, and consequence of actions
+
+-   Problem-centred instead of methods
+
+-   Pluralistic
+
+-   Real-world practice oriented
+:::
+
+::: {.column width="40%"}
+![](images/framework-research.jpg){fig-align="center"}
+:::
+:::
+
+## Research Designs: {visibility="hidden"}
+
+"These are **types of inquiry** within qualitative, quantitative, and mixed methods approaches that provide **specific direction for procedures** in a research study"
+
+![](images/framework-research.jpg){fig-align="center"}
+
+## Research Designs: ["types of inquiry"]{style="color:#A51C30"} {visibility="hidden"}
+
+::: panel-tabset
+## Qualitative
+
+Visible during the 1990s and in the 21st century.
+
+-   **Narrative research** from the humanities ... one or more individuals to provide stories about their lives.
+
+-   **Phenomenology** from philosophy and psychology ... description culminates in the essence of the experiences for several individuals who have all experienced the phenomenon.
+
+-   **Grounded theory** from sociology in which the researcher derives a general, abstract theory of a process, action, or interaction grounded in the view of participants.
+
+-   **Ethnography** from anthropology and sociology in which the research studies the shared patterns of behaviors, languages, and actions of an intact cultural group in a natural setting.
+
+-   **Case study** researcher develops an in-depth analysis of a case ... collect detailed information using a variety of data collection procedures
+
+## Quantitative
+
+During the late 19th century and throughout the 20th century.
+
+-   **Experimental Designs** seeks to determine if a specific treatment influences an outcome.
+
+-   **Survey research** provides a quantitative or numeric description of trends, attitudes, or opinions of a population by studying a **sample** of that **population**.
+
+## Mixed Methods {visibility="hidden"}
+
+Began in late 1980s
+
+-   **Convergent mixed methods** collects both forms of data at the same time and integrates the information in the results.
+
+-   **Explanatory sequential** quantitative studies followed by the qualitative study, the qualitative study was conducted to explain further/better the results of quantitative study.
+
+-   **Exploratory sequential** qualitative study was done first then this study's results are used to do the quantitative study.
+
+-   Transformative, embedded, or multi-phase
+:::
+
+## Research Methods {visibility="hidden"}
+
+"Involve the **forms of** data collection, analysis, and interpretation that researchers propose for their studies"
+
+![](images/framework-research.jpg){fig-align="center"}
+
+## Research Methods: {visibility="hidden"}
+
+::: panel-tabset
+## Qualitative
+
+-   Emerging methods
+
+-   Open-ended questions
+
+-   Interview data, observation data, document data & audio-visual data
+
+-   Text & image analysis
+
+-   Themes, patterns, and interpretation
+
+## Quantitative
+
+-   Pre-determined methods
+
+-   Instrument based questions
+
+-   Performance data, attitude data, observational data, & census data
+
+-   Statistical analysis
+
+-   Statistical interpretation
+
+## Mixed Methods
+
+-   Both predetermined & emerging methods
+
+-   Both open- and closed- ended questions
+
+-   Multiple forms of data drawing on all possibilities
+
+-   Statistical & text analysis
+
+-   Across databases interpretation
+:::
+
+## Approaches = [Worldview + Design + Methods]{style="color:#A51C30"} {visibility="hidden"}
+
+::: panel-tabset
+## Qualitative
+
+-   Constructivist worldview
+
+-   Ethnographic design
+
+-   Observation of behavior
+
+## Quantitative
+
+-   Post-positivist worldview
+
+-   Experimental design
+
+-   Measures of attitudes
+
+## Mixed Methods
+
+-   Pragmatic world-view
+
+-   Collection of both qualitative & quantitative data
+:::
+
+## :brain: Your Turn {visibility="hidden"}
+
+```{r}
+countdown::countdown(minutes = 05, right = "-1%", top = "-4%", play_sound = TRUE)
+```
+
+::: goal
+Take a topic that you would like to study, and using the combinations of worldviews, designs, and research methods, discuss a project that brings together a worldview, designs, and methods. Identify whether this would be quantitative, qualitative, or mixed methods research.
+:::
+
+
+
+## 🥘 Research design steps: {.scrollable}
+
+1. Identify a research problem
+
+1. Review existing literature
+
+1. Formulate research questions or hypotheses
+
+1. Choose a research design
+
+1. Select a research method
+
+1. Ensure ethical considerations
+
+1. Define the population and sample
+
+1. Develop data collection instruments
+
+1. Conduct a pilot study
+
+1. Collect data
+
+1. Analyse data
+
+1. Interpret and discuss results
+
+1. Write the research report
+
+1. Disseminate findings
+
+1. Reflect and review
+
+## {.center background-color=black}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<br>
+<br>
+[Identify a <br>research problem]{.r-fit-text}
+:::
+
+::: {.column width="50%"}
+![](images/research-problem.png)
+:::
+
+::::
+
+::: aside
+Source: [Dr. Imran Farooq](https://x.com/drimran_farooq/status/1472660535284051972)
+:::
+
+## The research problem {visibility="hidden"}
+
+[Identification of the Broad Problem]{style="color:#A51C30"}<br>$\downarrow$ <br>[Preliminary Research]{style="color:#A51C30"}<br>$\downarrow$<br>[Definition of the Research Problem]{style="color:#A51C30"}
+
+## The research topic[^22]
+
+[^22]: @creswellResearchDesignQualitative2018
+
+> "The topic is the subject or **subject matter** of a proposed study" like:
+
+- "The topic becomes the **central idea** to learn about or to explore"
+
+- "Topic **grounds us** and provides a **sign** of what we are studying."
+
+## How to write a working Title?
+
+::: callout-tip
+"My study is about ......................................"
+:::
+
+## Good topic or question
+
+-   "**Adds** to the pool of research knowledge in the literature available on the topic, ...
+
+-   **Replicate** past studies, ...
+
+-   Lifts up the voices of **under-represented groups** or individuals, ...
+
+-   Helps to address **social justice**, or ...
+
+-   **Transforms** the ideas and beliefs of the researcher."
+
+## :mag: A new perspective or "angle" to the existing literature:
+
+-   Studying an **unusual location** (e.g., rural India).
+
+-   Examining an **unusual group** of participants (e.g., refugees).
+
+-   Taking a **perspective** that may not be expected and reverses the expectation (e.g., why marriages do work rather than do not work).
+
+-   Providing **novel means** of collecting data (e.g., collect sounds).
+
+-   Presenting results in **unusual ways**.
+
+-   Studying a **timely topic** (e.g., immigration issues)
+
+## Studies addressing the problem
+
+-   **Reviewing** studies that have examined the issue.
+
+-   **Summarize** large groups of studies instead of individual ones.
+
+-   **Justify** the importance of the study
+
+-   To create **distinction** between past studies and the proposed one.
+
+## Deficiencies in past literature
+
+-   Topics have not been explored with a **particular group**, sample, or population;
+
+-   The literature may need to be replicated or repeated;
+
+-   The voices of underrepresented groups left
+
+-   "Future research" to look for gaps.
+
+## Significance of a study for audiences
+
+-   3 or 4 reasons that the **study adds** to scholarly research and literature in the field.
+
+-   3 or 4 reasons about how the study helps **improve practice**.
+
+-   3 or 4 reasons as to why the study will improve **policy or decision making**.
+
+## {.center background-color=black}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<br>
+<br>
+[Literature Review]{.r-fit-text}
+:::
+
+::: {.column width="50%"}
+![](https://i.pinimg.com/564x/5c/bc/64/5cbc6450d5915345f7926501fed6589c.jpg)
+:::
+
+::::
+
+::: aside
+Source: [pinterest](https://in.pinterest.com/pin/404901822723016004/)
+:::
+
+## [How does this research contribute to the literature?]{style="color:#36013F"}
+
+> "Research is to see what everybody else has seen, and to think what nobody else has thought." <br><br>-- Albert Szent-Gyorgyi
+
+## :books: Why literature review?
+
+-   "literature review helps to determine whether the topic is **worth studying**, and it provides insight into ways in which the researcher can **limit the scope** to a needed area of inquiry."
+
+-   "to consider whether the research topic can and should be researched"
+
+## :books: [Purpose of Literature Review:]{style="color:#36013F"}
+
+-   It shares with the reader the **results of other studies** that are closely related to the one being undertaken.
+
+-   It relates a study to the larger, **ongoing dialogue** in the literature, filling in gaps and extending prior studies
+
+-   It provides a framework for establishing the importance of the study as well as a benchmark for **comparing the results** with other findings.
+
+## :books: [Lit. rev. sources]{style="color:#36013F"} {background-image="images/litref.png" background-size="contain" background-position="75%"}
+
+-   Textbooks
+
+-   Journals
+
+-   Theses
+
+-   Conference proceedings
+
+-   Unpublished manuscripts
+
+-   Reports
+
+-   Newspapers
+
+-   The Internet
+
+## {.center background-color=black}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<br>
+<br>
+<br>
+
+[:sob: Literature <br>review process]{.r-fit-text}
+:::
+
+::: {.column width="50%"}
+![](https://i.imgflip.com/5rdmnz.jpg)
+:::
+
+::::
+
+## :sob: Literature Review Process[^24]
+
+1.  Begin by identifying **key words.**
+
+1.  Searching the **databases** like [Google Scholar](https://scholar.google.com/), Web of Science, EBSCO, ProQuest, and JSTOR or you can also use website like [Library Genesis](https://libgen.is/) to download books and papers.
+
+1.  Locate about 50 reports of research in **articles or books** related to research on your topic.
+
+1.  Skim this initial group of articles or chapters, and collect those that are **central to your topic**.
+
+1.  Designing a **literature map** ... a **visual picture of groupings** of the literature on the topic that illustrates how your particular study will add to the existing literature and position your study within the larger body of research.
+
+1.  Begin to **draft summaries** of the most relevant articles. Include precise references to the literature using an appropriate style guide like [APA](https://apastyle.apa.org/style-grammar-guidelines).
+
+1.  After **summarizing** the literature,
+
+  - assemble the literature review, structuring it **thematically** or organizing it by **important concepts**.
+
+  - This summary should also point toward the **methods** ...
+
+  - It is at this point as well that you could advance a **critique of the past** literature and point our **deficiencies** in it and issues in its methods.
+
+::: aside
+[^24]: @creswellResearchDesignQualitative2018  
+:::
+
+## Literature review tools {.center background-color=black}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+1.  [Connected Papers](https://www.connectedpapers.com/)
+
+2.  [Open Knowledge Map](https://openknowledgemaps.org/index)
+
+3.  [Scholarcy](https://chrome.google.com/webstore/detail/scholarcy-research-paper/oekgknkmgmaehhpegfeioenikocgbcib?hl=en-GB)
+
+4.  [Speechify](https://speechify.com/)
+
+5.  [Scite](https://scite.ai/)
+
+<br>
+
+::: aside
+Source: [Anicca Harriot, PhD](https://x.com/13adh13/status/1406664117147123715)
+:::
+
+:::
+
+::: {.column width="50%"}
+![](images/review-tools.png)
+:::
+
+::::
+
+## Connected papers {background-image="https://pbs.twimg.com/profile_banners/1267524311277015042/1591036577/1500x500" background-size="85%" style="text-align: center"}
+
+## Connected papers
+
+-   "A visual tool to help researchers and practitioners find and explore academic papers."[^25]
+
+-   "Connected Papers uses a single, user-chosen **'origin paper'** to build a map of related research, based partly on overlapping citations. The service recently surpassed one million users"[^26]
+
+-   Website: <https://www.connectedpapers.com/>
+
+[^25]: Source <https://twitter.com/ConnectedPapers>
+
+[^26]: Source <https://www.nature.com/articles/d41586-021-02346-4>
+
+## Open knowledge maps {background-image="https://openknowledgemaps.org/img/benefits-OKM/benefits-all3.png" background-size="70%" style="text-align: center"}
+
+## Open knowledge maps
+
+- "We are a **charitable non-profit** organization and we believe that a better way to explore and discover scientific knowledge will benefit us all."
+
+- "Our Goal is to revolutionize discovery of scientific knowledge. We are building a visual interface that dramatically **increases the visibility** of research findings for science and society alike."
+
+- Website: <https://openknowledgemaps.org/index>
+
+## Scholarcy {background-image="images/scholarcy.png" background-size="35%" style="text-align: center"}
+
+## [Scholarcy]{style="color:#36013F"}
+
+-   "The AI-powered article summarizer"
+
+-   "reads your research articles, reports and book chapters in seconds and breaks them down into bite-sized sections"
+
+-   Website: <https://www.scholarcy.com/>
+
+## Speechify {background-image="https://speechify.com/wp-content/uploads/2022/05/speechify-logo.png" background-size="20%" background-position="top left"}
+
+-   "Reading is hard. Listening is easy. Listen to the things you normally read with the #1 text-to-speech AI reader."
+
+-   Website: <https://speechify.com/>
+
+## scite\_ {background-image="https://pbs.twimg.com/profile_images/1052280849733955584/8fYtjSQd_400x400.jpg" background-size="10%" background-position="left"}
+
+-   "1.1b citation statements extracted and analyzed from over 32m full-text articles"
+
+-   "helps you see whether publications, research results, and claims have been supported, contrasted, or mentioned by other researchers."
+
+-   Website: <https://www.scite.ai/>
+
+
+
+## {.center background-color=black}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<br>
+<br>
+<br>
+<br>
+[Formulate Research <br> Questions or Hypotheses]{.r-fit-text}
+:::
+
+::: {.column width="50%"}
+![](images/meme-hypo.jpg)
+:::
+::::
+
+::: aside
+Source: [Chiara Baston, PhD](https://www.linkedin.com/posts/chiara-baston-phd-62a3b531_meme-data-collaborative-activity-6912393186631966720-SuP7?utm_source=share&utm_medium=member_desktop)
+:::
+
+## "Good" research question[^23]
+
+[^23]: @chamblissMakingSenseSocial2018
+
+-   **Feasibility** given the time and resources available
+
+-   Social importance, and
+
+-   Scientific relevance
+
+## Theory
+
+> "“explains a certain phenomenon," ...
+
+. . .
+
+> "and the idea is that this explanation will hold in a wide range of settings.”
+
+@sekaranResearchMethodsBusiness2016
+
+## The role of theory
+
+-   Some research is aimed at **building theory** ...
+
+-   other to **test** a theory ...
+
+-   to **describe** what is going on, using an existing framework, instrument, or model.
+
+## Deductive research
+
+![](images/deductive.png){.absolute top=0 right=0 width=40%}
+
+"The type of research in which a <br>specific expectation is deduced <br>from a general premise and is <br>then tested."
+
+## Inductive research
+
+![](images/inductive.png){.absolute top=0 right=0 width=40%}
+
+"The type of research in which <br>general conclusions are drawn<br> from specific data."
+
+(@chamblissMakingSenseSocial2018)
+
+## [The Use of Theory]{style="color:#0e6251"}[^29] [in Quan Research:]{style="color:#FF6347"}
+
+[^29]: @creswellResearchDesignQualitative2018
+
+-   Researchers often **test hypotheses** stemming from theories.
+
+-   Broader theory **guiding** to the study hypotheses.
+
+## [The Use of Theory]{style="color:#0e6251"} [in Qual Research]{style="color:#FF6347"}
+
+-   It may **generate a theory** as the final outcome of a study and place it at the end of a project
+
+-   Sometimes it comes at the beginning and **provides a lens** that shapes what is looked at and the questions asked
+
+## [The Use of Theory]{style="color:#0e6251"} [in Mixed Methods]{style="color:#FF6347"}
+
+-   Researchers may both **test** theories and **generate** them
+
+-   Contain a theoretical framework within which **both** quantitative and qualitative data are collected
+
+## [Quantitative Theory Use]{style="color:#0e6251"}
+
+- **Causality:** means we would expect variable $X$ to cause variable $Y$.
+
+- Does drinking one glass of red wine daily ($X$) *cause* you have a reduced risk for a heart attack ($Y$)?
+
+- Do number of playing hours ($a$) and attendance ($b$) influence the marks in the exam ($z$)?
+
+## Hypothesis (plural is hypotheses)
+
+> "A tentative statement about empirical reality involving a relationship between two or more variables."
+
+. . .
+
+> "a tentative, yet testable, statement, which **predicts** what you expect to find in your **empirical** data." @sekaranResearchMethodsBusiness2016
+
+. . .
+
+*Example:* The higher the media budget, the higher the sales.
+
+## [Variables in Quantitative Research]{style="color:#0e6251"}
+
+- **Variable:** "refers to a [characteristic or attribute]{style="color:#FF6347"} of an individual or an organization that can be measured or observed and that [varies]{style="color:#FF6347"} among the people or organization being studied."
+
+- *Example*:Gender, age, socio-economic status; attitudes or behaviors such as racism, social control, political power, leadership.
+
+## [Causality]{style="color:#0e6251"}
+
+$$Red\;Wine \longrightarrow Heart\;attack$$ $$X \longrightarrow Y$$
+
+## [Variables in Quantitative Research]{style="color:#0e6251"}
+
+-   **Independent variables:**
+
+    -   Those that [influence, or affect outcomes]{style="color:#FF6347"} in experimental studies.
+
+    -   They are [manipulated]{style="color:#FF6347"} in an experiment and thus independent of all other influences.
+
+## [Variables in Quantitative Research]{style="color:#0e6251"}
+
+-   **Dependent variables:**
+
+    -   Those that depend on the independent variables,
+
+    -   They are the [outcomes or results]{style="color:#FF6347"} of the influence of the independent variables
+
+## [Variables in Quantitative Research]{style="color:#0e6251"}
+
+-   Independent variable/Predictor variable
+
+-   Dependent variable / Outcome variable
+
+-   Confounding variable
+
+-   Mediating variable
+
+-   Moderating variable
+
+
+
+
+## [Hypothesis Development: If-then statements]{style="color:#0e6251"}
+
+-   *Young women will more likely to express dissatisfaction with their body weight, when they are more frequently exposed to images of thin models in advertisements.*
+
+-   *If young women are more frequently exposed to images of thin models in advertisements, then they will be more likely to express dissatisfaction with their body weight.*
+
+## [Directional Hypothesis Development:]{style="color:#0e6251"}
+
+"the direction of the relationship between the variables (positive/negative) is indicated"
+
+-   *The greater the stress experienced in the job, the lower the job satisfaction of employees.*
+
+-   *Women are more motivated than men.*
+
+## [Non-directional Hypothesis Development:]{style="color:#0e6251"}
+
+"postulate a relationship or difference, but offer no indication of the direction of these relationships or differences"
+
+-   *There is a relation between arousal-seeking tendency and consumer preferences for complex product designs.*
+
+-   *There is a difference between the work ethic values of American and Asian employees.*
+
+
+
+
+
+## {.center background-color=black}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<br>
+<br>
+<br>
+<br>
+[Select a <br> research method]{.r-fit-text}
+:::
+
+::: {.column width="50%"}
+![](images/research-method.png){width=75%}
+:::
+
+::::
+
+::: aside
+Source: [Dr Raul Pacheco-Vega](https://x.com/raulpacheco/status/1458808875222802433)
+:::
+
+
+
+## {.center background-color=black}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<br>
+<br>
+<br>
+<br>
+[Population and Sample]{.r-fit-text}
+:::
+
+::: {.column width="50%"}
+
+:::
+
+::::
+
+::: aside
+Source: 
+:::
+
+
+
+
+## {.center background-color=black}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<br>
+<br>
+<br>
+<br>
+[Data collection instruments]{.r-fit-text}
+:::
+
+::: {.column width="50%"}
+
+:::
+
+::::
+
+::: aside
+Source: 
+:::
+
+
+
+
+
+## {.center background-color=black}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<br>
+<br>
+<br>
+<br>
+[Pilot study]{.r-fit-text}
+:::
+
+::: {.column width="50%"}
+
+:::
+
+::::
+
+::: aside
+Source: 
+:::
+
+
+
+
+## {.center background-color=black}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<br>
+<br>
+<br>
+<br>
+[Collect data]{.r-fit-text}
+:::
+
+::: {.column width="50%"}
+
+:::
+
+::::
+
+::: aside
+Source: 
+:::
+
+
+
+
+
+## {.center background-color=black}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<br>
+<br>
+<br>
+<br>
+[Analyze data]{.r-fit-text}
+:::
+
+::: {.column width="50%"}
+
+:::
+
+::::
+
+::: aside
+Source: 
+:::
+
+
+
+
+
+## {.center background-color=black}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<br>
+<br>
+<br>
+<br>
+[Interpret and disucss results]{.r-fit-text}
+:::
+
+::: {.column width="50%"}
+
+:::
+
+::::
+
+::: aside
+Source: 
+:::
+
+
+
+
+## {.center background-color=black}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<br>
+<br>
+<br>
+<br>
+[Write the Research Report]{.r-fit-text}
+:::
+
+::: {.column width="50%"}
+
+:::
+
+::::
+
+::: aside
+Source: 
+:::
+
+
+
+## {.center background-color=black}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<br>
+<br>
+<br>
+<br>
+[Disseminate findings]{.r-fit-text}
+:::
+
+::: {.column width="50%"}
+
+:::
+
+::::
+
+::: aside
+Source: 
+:::
+
+
+
+## {.center background-color=black}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+[Reflect and review]{.r-fit-text}
+:::
+
+::: {.column width="50%"}
+
+:::
+
+::::
+
+::: aside
+Source: 
+:::
+
+
+
+
+
+
+
+
+
+## {.center background-color=black}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<br>
+<br>
+
+[Ethial considerations]{.r-fit-text}
+:::
+
+::: {.column width="50%"}
+
+:::
+
+::::
+
+::: aside
+Source: 
+:::

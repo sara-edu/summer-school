@@ -1,0 +1,51 @@
+---
+title: "Reproducible Research using {{< fa brands r-project >}}"
+subtitle: "Welcome! 1st SARA Summer School, Sonipat."
+format: revealjs
+pagetitle: Summer School
+logo: images/sara_logo.png
+slide-number: true
+toc: true
+toc-depth: 1
+from: markdown+emoji
+execute: 
+  echo: true
+
+---
+
+## {background-image="images/sara_banner.png"}
+
+## {.center}
+
+:::: columns
+::: {.column width="25%"}
+![](images/sara_logo.png)
+:::
+
+::: {.column width="75%"}
+-   A registered charitable education institute founded in April 2023.
+
+-   To empower underrepresented communities in India through data science education.
+:::
+::::
+
+# Introduction to Reproducible Research, Quarto, and R {#sec-introduction background-color="#008080"}
+
+{{< include _intro-rrr.qmd >}}
+
+
+# Data Visualization using ggplot2 {#sec-visualization background-color="#CE4385"}
+
+{{< include _viz.qmd >}}
+
+# Research Design in Social Science {.center background-image=images/why.jpg background-size=cover background-color=black background-opacity=0.25}
+
+{{< include _research-design.qmd >}}
+
+# Quantitative Data Analysis {#sec-quants background-color="#595DA2"}
+
+{{< include _quant.qmd >}}
+
+# Publish using GitHub {#sec-github background-color="#FFAF31"}
+
+{{< include _github.qmd >}}

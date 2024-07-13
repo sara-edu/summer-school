@@ -1,0 +1,194 @@
+---
+title: "Reproducible Research using R"
+subtitle: "1st SARA Summer School Session Details"
+date: last-modified
+author: "Dr. Ajay Koli | SARA Institute"
+format: html
+number-sections: true
+toc: true
+---
+
+## Schedule {.scrollable .striped .hover}
+
+::: panel-tabset
+## Sessions
+
+| Day | Date          | Theme                              |
+|-----|---------------|------------------------------------|
+| 1   | 22 July, 2024 | Introduction to Data Science       |
+| 2   | 23 July, 2024 | Data Visualization                 |
+| 3   | 24 July, 2024 | Research Design in Social Sciences |
+| 4   | 24 July, 2024 | Quantitative Data Analysis         |
+| 5   | 25 July, 2024 | Publish using R and GitHub         |
+
+: {.striped}
+
+## Timings
+
+| Time              | Activity                           |
+|-------------------|------------------------------------|
+| 08:00 to 08:45 AM | *Breakfast at the Ambedkar Hostel* |
+| 09:00 to 10:00 AM | **Online Expert Lecture**          |
+| 10:00 to 10:15 AM | *Break*                            |
+| 10:15 to 11:15 AM | **Data Science Lecture by Ajay**   |
+| 11:15 to 11:30 AM | *Break*                            |
+| 11:30 to 12:30 AM | **Data Science Lecture by Ajay**   |
+| 12:30 to 01:30 PM | *Lunch at the Ambedkar Hostel*     |
+| 01:30 to 02:00 PM | Query session (optional)           |
+| 02:00 to 03:00 PM | **Data Science Lecture by Ajay**   |
+| 03:00 to 03:15 PM | *Break*                            |
+| 03:15 to 04:15 PM | **Data Science Lecture by Ajay**   |
+| 04:15 to 04:30 PM | *Break*                            |
+| 01:30 to 02:00 PM | Query session (optional)           |
+| 05:00 to 06:00 PM | **Online Expert Lecture**          |
+| 07:30 to 8:30 PM  | *Dinner at the Ambedkar Hostel*    |
+
+: {.striped}
+
+:::
+
+
+## Day 1 Introduction to Data Science
+
+### What is reproducible research?
+
+Definition of reproducible research.
+
+> "The goal of reproducible research is to tie specific instructions to data analysis and experimental data so that scholarship can be recreated, understood, and verified." (Source: John Blischak, Alison Hill, Ben Marwick, Daniel Sjoberg, Will Landau (2024). CRAN Task View: Reproducible Research. Version 2024-06-14. URL [https://CRAN.R-project.org/view=ReproducibleResearch.
+](https://cran.r-project.org/web/views/ReproducibleResearch.html))
+
+> "Research is reproducible when others can reproduce the results of a scientific study given only the original data, code, and documentation" (Source: Alston, J. M., & Rick, J. A. (2021). A Beginner's Guide to Conducting Reproducible Research. The Bulletin of the Ecological Society of America, 102(2), e01801. [https://doi.org/10.1002/bes2.1801](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1801))
+
+Important parts of reproducible research.
+
+  - **Data**: people can access your original data. 
+  - **Code**: (visualization, tables, images, and statistics).
+  - **Documentation**: (for example proposal, paper, thesis, slides, and websites).
+
+How to accomplish reproducible research using data science?
+
+R + Quarto
+
+::: {.callout-important}
+Here show a demo of a quarto document. The document should have data, code, and documentation. Also, demonstrate it converting into multiple formats.
+
+This demo should help the participants to understand how using R and Quarto can help them to overcome the 😓 pain of cut-copy-paste cycle.
+:::
+
+### Introduction to R
+
+What is open-access?
+
+> "Open-source software (OSS) is computer software that is released under a license in which the copyright holder grants users the rights to use, study, change, and distribute the software and its source code to anyone and for any purpose." (Source: [Wikipedia](https://en.wikipedia.org/wiki/Open-source_software))
+
+![Popular open source software](images/popular_open_source.png)
+
+What is R?
+
+> "R is a free software environment for statistical computing and graphics."
+
+Why to use R?
+
+Here are a few screen-shots of top Reddit answers 
+
+```
+::: {.r-stack}
+![](image1.png){.fragment width="450" height="300"}
+
+![](image2.png){.fragment width="300" height="450"}
+
+![](image3.png){.fragment width="400" height="400"}
+:::
+```
+
+How and from where to download R?
+
+### Introduction to RStudio
+
+- What is RStudio?
+
+Soon, posit will launch their new data science IDE, *positron* (Source: <https://github.com/posit-dev/positron>) as well.
+
+- How and from where to download RStudio?
+
+- If R is there then why RStudio?
+
+- How and why to use RStudio project?
+
+### Introduction to Quarto
+
+- Key parts/components
+
+  - YAML
+  - Code chunk
+  - Documentation
+
+- Headings
+
+- Add images
+
+- Teach code chunk in detail
+
+## Day 2 Data Visualization
+
+We will also learn when to make which plot in an order:
+
+- bar plot
+- histogram
+- line plot
+- dot plot
+- correlation plot
+
+We will use R package `ggplot2` to make plots and do the customization like:
+
+- adding a theme
+- making your own theme
+- using ggplot extension plots
+- adding text and statistics to the plot
+
+Give them link of a few famous ggplot users like 
+
+## Day 3 Research Design
+
+Import data in R from your local computer
+
+Types of variables
+
+Format of data required in RStudio
+
+## Day 4 Quantitative Analysis
+
+Check data format, name of the variables, sample size & missing values (column and rows)
+
+Plot missing values
+
+### Why to learn statistics?
+
+### Descriptive statistics
+
+- central tendencies
+
+- dispersion
+
+- how to report descriptive statistics
+
+### Correlation
+
+- Correlation calculation
+
+- Reporting correlation
+
+### Regression
+
+- Regression calculation
+
+- How to report regression results
+
+### Factor Analysis
+
+### ANOVA
+
+### t-Test, s-test, f-test
+
+
+## Day 5 Publish using GitHub
